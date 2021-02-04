@@ -1,0 +1,4 @@
+-cp src
+--jvm bin/jvm/Main.jar
+--main Main
+-lib promhx
